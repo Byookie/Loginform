@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: lato;
+  src: url(/public/font/Lato-Medium.ttf);
+}
+
+.lato {
+  font-family: lato;
+}
+
+:root{
+  font-family: lato;
+}
